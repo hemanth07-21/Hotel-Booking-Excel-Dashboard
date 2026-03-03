@@ -1,5 +1,3 @@
-# Hotel-Booking-Excel-Dashboard
-
 📊 Hotel Booking Analysis Dashboard (Excel)
 🔹 Project Overview
 This project presents an interactive Hotel Booking Analysis Dashboard built using Microsoft Excel.
